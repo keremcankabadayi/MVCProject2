@@ -5,6 +5,24 @@
 
     <head runat="server">
         <title>BookInfo</title>
+        <style type="text/css">
+        
+        .auto-style4 {
+            width: 300px;
+            position:relative;
+            float:left;
+        }
+
+        .auto-style5{
+            margin-left:30px;
+            width: 400px;
+            position:relative;
+            float:left;
+
+        }
+
+    </style>
+
     </head>
 
     <body>
@@ -23,16 +41,16 @@
                         <h2>
                         <asp:Label ID="Labelbookname" runat="server" Text=""></asp:Label>
                         </h2>
-                        <asp:Label ID="Labelwriter" runat="server" Text=""></asp:Label>
+                        <asp:Label ID="Labelwriter" runat="server" Text=""></asp:Label><br />
                         <br />
                         <asp:Label ID="labelpublisher" runat="server" Text=""></asp:Label>
                         <br />
-                        <asp:Label ID="labelpage" runat="server" Text=""></asp:Label>
+                        <asp:Label ID="labelpage" runat="server" Text=""></asp:Label><br />
                         <br />
                         <asp:Button ID="Button1" runat="server" Text="Add to Cart" OnClick="Button1_Click" />
                         <asp:Label id="labeltocard" runat="server" Text=""></asp:Label>
-                        <br />
-                        <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/Cart.aspx">Display Shopping Cart</asp:HyperLink>
+                        <br /><br /><br /><br />
+                        <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/Cart.aspx">Display Shopping Cart</asp:HyperLink><br />
                         <br />
                         <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Default.aspx">Return to Main Page</asp:HyperLink>
                     </div>

@@ -16,12 +16,12 @@ namespace BİM451Homework2
             if (cookie == null)
             {
                 Login.Visible = false;
-                NotLogin.Visible = true;
+                NotLogIn.Visible = true;
             }
             else
             {
                 Login.Visible = true;
-                NotLogin.Visible = false;
+                NotLogIn.Visible = false;
                 usernamepanel.Text = cookie.Value;
             }
 
