@@ -36,16 +36,40 @@ namespace BİM451Homework2
                 regularpanel.Visible = false;
             }
 
-            List<int> SelectedBookIndices = new List<int>();
-            Session["Cart"] = SelectedBookIndices;
-
 
 
         }
 
+
+
+
+
         protected void Button1_Click(object sender, EventArgs e)
         {
-            labeltocard.Text = "Book is already in the list!";
+
+
+            List<int> SelectedBookIndices = new List<int>();
+            Session["Cart"] = SelectedBookIndices;
+            string ID = Request.QueryString["id"];
+            int x = Convert.ToInt32(ID);
+            if (SelectedBookIndices.Contains(x))
+            {
+                labeltocard.Text = "Book is already in the list";
+
+            }
+            else
+            {
+                SelectedBookIndices.Add(x);
+                labeltocard.Text = "Book is added to shopping card.";
+            }
+
+            //       labeltocard.Text = string.Join("", SelectedBookIndices.ToArray());
+
+
+
+
+
+
 
         }
     }

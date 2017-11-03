@@ -1,0 +1,66 @@
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\ApplicationInsights.config
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\roslyn\csc.exe
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\roslyn\vbc.exe
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\roslyn\VBCSCompiler.exe
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\BİM451Homework2.dll.config
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\BİM451Homework2.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\BİM451Homework2.pdb
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.Web.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.ApplicationInsights.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.Web.xml
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.ApplicationInsights.xml
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\obj\Debug\BİM451Homework2.csprojResolveAssemblyReference.cache
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\obj\Debug\BİM451Homework2.dll
+c:\users\dell-\documents\visual studio 2015\Projects\BİM451Homework2\BİM451Homework2\obj\Debug\BİM451Homework2.pdb
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\ApplicationInsights.config
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\BİM451Homework2.dll.config
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\BİM451Homework2.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\BİM451Homework2.pdb
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\obj\Debug\BİM451Homework2.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\obj\Debug\BİM451Homework2.dll
+\\Mac\Home\Desktop\BİM451Homework2\BİM451Homework2\obj\Debug\BİM451Homework2.pdb
