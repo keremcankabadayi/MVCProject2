@@ -22,13 +22,13 @@ namespace BİM451Homework2 {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// pnlNotLoggedIn control.
+        /// NotLogin control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Panel pnlNotLoggedIn;
+        protected global::System.Web.UI.WebControls.Panel NotLogin;
         
         /// <summary>
         /// HyperLink1 control.
@@ -40,13 +40,13 @@ namespace BİM451Homework2 {
         protected global::System.Web.UI.WebControls.HyperLink HyperLink1;
         
         /// <summary>
-        /// pnlLoggedIn control.
+        /// Login control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Panel pnlLoggedIn;
+        protected global::System.Web.UI.WebControls.Panel Login;
         
         /// <summary>
         /// usernamepanel control.

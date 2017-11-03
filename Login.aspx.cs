@@ -9,20 +9,13 @@ namespace BİM451Homework2
 {
     public partial class Login : System.Web.UI.Page
     {
-        protected void Page_Load(object sender, EventArgs e)
-        {
-         
-        }
-
         protected void Button1_Click(object sender, EventArgs e)
         {
             HttpCookie cookie = new HttpCookie("username");
-            cookie.Value = TextBox1.Text +" "+ TextBox2.Text;
-            cookie.Expires = DateTime.Now.AddDays(30);
+            cookie.Value = TextBox1.Text + " " + TextBox2.Text;
+            cookie.Expires = DateTime.Now.AddDays(5d);
             Response.Cookies.Add(cookie);
-
             Response.Redirect("Default.aspx");
-
         }
     }
 }
